@@ -1,7 +1,6 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    color: #77775f;
 }
 
 .container {
@@ -15,7 +14,7 @@ body {
 .navbar {
     position: fixed;
     width: 100%;
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(157,155,128, 0.8);
     backdrop-filter: blur(0);
     transition: backdrop-filter 0.3s ease;
     z-index: 1000;
